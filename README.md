@@ -131,7 +131,7 @@ stock-price-prediction/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/burhan-arshad24/stock-price-prediction
 cd stock-price-prediction
 ```
 
