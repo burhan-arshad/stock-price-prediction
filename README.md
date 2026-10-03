@@ -165,11 +165,6 @@ This model was trained specifically on AAL historical stock data. It should not 
 
 Stock prices are highly unpredictable. The model's prediction is an estimate based on historical patterns and should not be considered financial advice or a guaranteed future price.
 
-## Future Improvements
-
-* Train using multiple stock features such as Open, High, Low, Volume and technical indicators
-* Add validation-based training instead of using the test set during training
-* Prevent data leakage through train-only scaler fitting
 * Compare LSTM with GRU and other forecasting approaches
 * Add multiple ticker support with ticker-specific models
 * Deploy the application online
