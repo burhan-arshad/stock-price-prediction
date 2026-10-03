@@ -171,3 +171,9 @@ Stock prices are highly unpredictable. The model's prediction is an estimate bas
 
 ```
 ```
+
+## Future Improvements
+
+* Train using multiple stock features such as Open, High, Low, Volume and technical indicators
+* Add validation-based training instead of using the test set during training
+* Prevent data leakage through train-only scaler fitting
